@@ -1,0 +1,4 @@
+config.py
+known_devices.csv
+__pycache__/
+*.pyc
